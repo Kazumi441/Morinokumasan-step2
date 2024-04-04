@@ -5,3 +5,4 @@
 sutakora ssassassanossa
 mainブランチに直接コミット～～
 今晩も　くまさんは　Githubで　コミットよ
+Branchつくって、プルリクを出す方法がわかった。Mainにプルリクを出せるの？
